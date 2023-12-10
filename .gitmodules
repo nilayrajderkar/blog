@@ -1,0 +1,4 @@
+[submodule "nilaymanblogs/public"]
+	path = nilaymanblogs/public
+	url = git@github.com:nilayrajderkar/nilayman.github.io.git
+	branch = main
